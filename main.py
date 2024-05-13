@@ -1,2 +1,2 @@
 print("Hello")
-print("Functions: Ble")
+print("functions : Bla")
